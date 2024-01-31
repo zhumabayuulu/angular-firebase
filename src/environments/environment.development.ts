@@ -1,5 +1,5 @@
 export const environment = {
-    firebase : {
+    firebaseConfig : {
     apiKey: "AIzaSyAWs7FFIHe-t9MA1ZchfYlhE4iy2_GhHmM",
     authDomain: "angular-login-register-938aa.firebaseapp.com",
     projectId: "angular-login-register-938aa",
